@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/elen2010silva/Pipeline%20Styles/_apis/build/status/ekarla.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/elen2010silva/Pipeline%20Styles/_build/latest?definitionId=4&branchName=refs%2Fpull%2F1%2Fmerge)
